@@ -2,6 +2,8 @@ package com.example.noteview.repository
 
 import com.example.noteview.Model.Note
 import com.example.noteview.utils.Constant.NOTES
+import com.google.firebase.database.FirebaseDatabase
+import kotlinx.coroutines.tasks.await
 
 class NoteRepository {
     private val database = FirebaseDatabase.getInstance()
