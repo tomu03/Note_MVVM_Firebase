@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "901443654192",
+    "project_id": "noteview-49bde",
+    "storage_bucket": "noteview-49bde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901443654192:android:dfaa3bffdedccb546e13f5",
+        "android_client_info": {
+          "package_name": "com.example.noteview"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzS1cP3JcIKbGoZlzyWMKKpE6pgH2cjX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
